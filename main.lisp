@@ -1,6 +1,6 @@
-(load "/home/noname/.workspace/SquareEq/analyse.lisp")
-(load "/home/noname/.workspace/SquareEq/calculate.lisp")
-(load "/home/noname/.workspace/SquareEq/synthesyse.lisp")
+(load "analyse.lisp")
+(load "calculate.lisp")
+(load "synthesyse.lisp")
 
 (defun main ()
   (parentheses-off
